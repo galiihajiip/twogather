@@ -187,5 +187,5 @@ document.head.appendChild(style);
 // ==========================================
 // CONSOLE MESSAGE
 // ==========================================
-console.log('%cTWO GATHER - Vietnam Fair Labor Youth Initiative', 'color: #FFC300; font-size: 20px; font-weight: bold;');
-console.log('%cBuilt with ❤️ for AIESEC Future Leaders', 'color: #FFD60A; font-size: 14px;');
+console.log('%cTWO-GATHER - Vietnam Fair Labor Youth Initiative', 'color: #FFC300; font-size: 20px; font-weight: bold;');
+console.log('%cBuilt with ❤️ for AIESEC Future Leaders Winter Peak 2025', 'color: #FFD60A; font-size: 14px;');

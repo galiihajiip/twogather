@@ -1,6 +1,6 @@
-# TWO GATHER - Vietnam Fair Labor Youth Initiative Website
+# TWO-GATHER - Vietnam Fair Labor Youth Initiative Website
 
-Website untuk Final Project AIESEC Future Leaders dengan tema Formula 1 dan aktivisme sosial tentang buruh Vietnam.
+Website untuk Final Project AIESEC Future Leaders Winter Peak 2025 dengan tema Formula 1 dan aktivisme sosial tentang buruh Vietnam.
 
 ## 🏎️ Fitur Website
 
@@ -52,7 +52,7 @@ Simpan file-file tersebut ke folder `images/` dengan nama yang sesuai.
 
 ### 2. Foto Tim
 
-- Ambil foto tim TWO GATHER
+- Ambil foto tim TWO-GATHER
 - Rename menjadi `team-photo.jpg`
 - Simpan di folder `images/`
 - Rekomendasi ukuran: minimal 1200x800 pixels
@@ -102,7 +102,7 @@ Kemudian buka browser dan akses: `http://localhost:8000`
 7. **Program Highlight** - Fair Labor Youth Initiative (FLYi)
 8. **Events** - 3 event utama (Seminar, Campaign, Escape Room)
 9. **Timeline** - Jadwal pelaksanaan program
-10. **Team** - Anggota tim TWO GATHER
+10. **Team** - Anggota tim TWO-GATHER
 11. **Values & Culture** - Nilai, behaviour, dan budaya kerja
 12. **Call to Action** - Ajakan mendukung fair labor
 13. **Footer** - Informasi penutup
@@ -140,7 +140,7 @@ Edit file `index.html` pada section footer:
 - Website fully responsive untuk semua ukuran layar
 - Animasi smooth dan tidak berlebihan untuk presentasi profesional
 
-## 👥 Tim TWO GATHER
+## 👥 Tim TWO-GATHER
 
 - **Team Leader**: Fenantya Aulia Salsabila ([@fenantya_lia](https://instagram.com/fenantya_lia))
 - **Program**: Galih Aji Pangestu ([@galiihajiip](https://instagram.com/galiihajiip))
@@ -151,8 +151,8 @@ Edit file `index.html` pada section footer:
 
 ## 📄 License
 
-© 2024 TWO GATHER. All rights reserved.
+© 2025 TWO-GATHER. All rights reserved.
 
 ---
 
-**AIESEC Future Leaders - Vietnam Fair Labor Youth Initiative**
+**AIESEC Future Leaders Winter Peak 2025 - Vietnam Fair Labor Youth Initiative**
